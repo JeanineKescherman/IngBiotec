@@ -1,6 +1,6 @@
 # IngBiotec
 malla-carrera-Ingeniería en Biotecnología
-index.html
-style.css
-script.js
+indexA.html
+styleA.css
+scriptA.js
 README.md
