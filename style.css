@@ -1,0 +1,23 @@
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+.semestre {
+  margin-bottom: 30px;
+}
+.semestre h2 {
+  color: #005faa;
+}
+button {
+  margin: 5px;
+  padding: 10px;
+  border: 2px solid #005faa;
+  background-color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+button.aprobada {
+  background-color: #a3d9a5;
+  border-color: #4d8635;
+}
